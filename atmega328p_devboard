@@ -25,11 +25,11 @@
 
 <p><meta charset="utf-8" /></p>
 
-<p dir="ltr">La carte Uno R3 est un clone de l&#39;Arduino du m&ecirc;me nom. Elle est donc bas&eacute;e sur&nbsp;le microcontr&ocirc;leur Atmega328p et poss&egrave;de&nbsp;le module USB-Serial Ch340.&nbsp;</p>
+<p dir="ltr">La carte <strong>Uno R3 </strong>est un clone de l&#39;Arduino du m&ecirc;me nom. Elle est donc bas&eacute;e sur&nbsp;le microcontr&ocirc;leur <strong>Atmega328p</strong> et poss&egrave;de&nbsp;le module USB-Serial Ch340.&nbsp;</p>
 
-<p dir="ltr">&Eacute;quip&eacute;e de 14 broches d&#39;entr&eacute;e/sortie num&eacute;riques (6 peuvent &ecirc;tre utilis&eacute;es comme sorties PWN), de 6 entr&eacute;es analogiques et d&#39;un port&nbsp;USB Type B, cette carte est parfaite pour vos projets &eacute;lectronique en tout genre (robot, domotique, ou encore &eacute;ducation par exemple).</p>
+<p dir="ltr">&Eacute;quip&eacute;e de <strong>14 </strong>broches d&#39;entr&eacute;e/sortie <strong>num&eacute;riques</strong> (6 peuvent &ecirc;tre utilis&eacute;es comme sorties PWN), de <strong>6</strong> broches&nbsp;d&#39;entr&eacute;e/sortie <strong>analogiques</strong> et d&#39;un port&nbsp;<strong>USB Type B</strong>, cette carte est parfaite pour vos projets &eacute;lectronique en tout genre (robot, domotique, ou encore &eacute;ducation par exemple).</p>
 
-<p dir="ltr">Elle peut &ecirc;tre&nbsp;programm&eacute;e&nbsp;via l&#39;IDE Arduino.</p>
+<p dir="ltr">Elle peut &ecirc;tre&nbsp;programm&eacute;e&nbsp;via l&#39;<strong>IDE Arduino</strong>.</p>
 </div>
 </div>
 </div>
