@@ -41,15 +41,17 @@
 <div class="col-12 col-md-12">
 <h2 style="line-height: 45px"><font face="Arial">Caract&eacute;ristiques et d&eacute;tails techniques</font></h2>
 
+<h6>&nbsp;</h6>
+
 <p><meta charset="utf-8" /></p>
 
 <ul>
 	<li dir="ltr">
-	<p dir="ltr" role="presentation"><b id="docs-internal-guid-b00d80f0-7fff-8282-6bd1-64069faf1c89">Alimentation :&nbsp;</b></p>
+	<p dir="ltr" role="presentation"><span style="font-size:16px;"><b id="docs-internal-guid-b00d80f0-7fff-8282-6bd1-64069faf1c89">Alimentation :&nbsp;</b></span></p>
 
 	<ul>
 		<li><b id="docs-internal-guid-b00d80f0-7fff-8282-6bd1-64069faf1c89">5v </b>via USB</li>
-		<li><b id="docs-internal-guid-b00d80f0-7fff-8282-6bd1-64069faf1c89">5v &agrave; 9v</b> via l&#39;alimentation externe&nbsp;</li>
+		<li><b id="docs-internal-guid-b00d80f0-7fff-8282-6bd1-64069faf1c89">5v &agrave; 9v</b> via l&#39;alimentation externe</li>
 	</ul>
 	</li>
 </ul>
@@ -61,7 +63,7 @@
 	<p dir="ltr" role="presentation"><b id="docs-internal-guid-b00d80f0-7fff-8282-6bd1-64069faf1c89">Tension de fonctionnement</b> : 5v</p>
 	</li>
 	<li dir="ltr">
-	<p dir="ltr" role="presentation"><strong>Tension de sorties&nbsp;</strong>: 3.3v et 5v</p>
+	<p dir="ltr" role="presentation"><strong>Tension de sortie&nbsp;</strong>: 3.3v et 5v</p>
 	</li>
 	<li dir="ltr">
 	<p dir="ltr" role="presentation"><b id="docs-internal-guid-b00d80f0-7fff-8282-6bd1-64069faf1c89">MicroProcesseur&nbsp;</b>:&nbsp;Atmega328p</p>
@@ -126,4 +128,5 @@
 </div>
 </div>
 </div>
+
 
